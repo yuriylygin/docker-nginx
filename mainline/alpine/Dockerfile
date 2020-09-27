@@ -1,4 +1,4 @@
-FROM alpine:3.12
+FROM python:3.8.6-alpine3.12
 
 LABEL maintainer="NGINX Docker Maintainers <docker-maint@nginx.com>"
 
